@@ -38,3 +38,15 @@ Welcome to the repository for my Capstone Project, completed during the Lux Acad
   - **Top Directors and Actors**
   - **Ratings vs. Box Office Performance**
   - **Insights on Movie Budgets and Revenues**
+
+## **How to Use**
+### **View the Jupyter Notebook:**
+- Open the `Movie Analysis.ipynb` file to explore the code and analysis performed on the datasets.
+- You can run this notebook on your local machine or view it using any Jupyter notebook viewer.
+
+### **Explore the Power BI Dashboards:**
+- Download and open the `Movie Analysis Dashboards.pbix` file using Power BI Desktop.
+- Navigate through the different dashboards to explore the insights derived from the movie data.
+
+## **Conclusion**
+This project provides a comprehensive analysis of movie data, highlighting key trends and insights in the movie industry. The dashboards created using Power BI offer a visual summary of the data, making it easier to understand and communicate findings.
